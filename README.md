@@ -1,4 +1,4 @@
-# Exercise02a-Ship
+# Exercise02b-Bullets-And-Asteroids
 
 Exercise for MSCH-C220
 
